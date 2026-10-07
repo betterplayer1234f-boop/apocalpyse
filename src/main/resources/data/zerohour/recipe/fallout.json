@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "zerohour:fallout_dust",
+    "zerohour:fallout_dust",
+    "zerohour:fallout_dust"
+  ],
+  "result": {
+    "id": "zerohour:fallout",
+    "count": 2
+  }
+}

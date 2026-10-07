@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bread",
+    "minecraft:dried_kelp",
+    "minecraft:baked_potato"
+  ],
+  "result": {
+    "id": "zerohour:emergency_ration",
+    "count": 2
+  }
+}

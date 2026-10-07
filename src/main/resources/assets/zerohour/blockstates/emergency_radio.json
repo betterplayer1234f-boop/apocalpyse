@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "zerohour:block/emergency_radio"
+    },
+    "facing=east": {
+      "model": "zerohour:block/emergency_radio",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "zerohour:block/emergency_radio",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "zerohour:block/emergency_radio",
+      "y": 270
+    }
+  }
+}

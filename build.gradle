@@ -15,7 +15,7 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"lastsunset" {
+		"zerohour" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}
@@ -26,7 +26,7 @@ loom {
 fabricApi {
 	configureTests {
 		createSourceSet = true
-		modId = "lastsunset-test"
+		modId = "zerohour-test"
 		enableGameTests = false
 		enableClientGameTests = true
 	}

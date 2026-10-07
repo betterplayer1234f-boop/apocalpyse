@@ -1,19 +1,28 @@
 {
   "schemaVersion": 1,
-  "id": "lastsunset",
+  "id": "zerohour",
   "version": "${version}",
-  "name": "Last Sunset",
-  "description": "The sun is dying. Evacuate the surface, build a shelter deep enough, and survive the final flare together.",
-  "authors": ["sehrcool72"],
+  "name": "Zero Hour",
+  "description": "War, an infection that turns people into the walking dead, and then the bomb. Shelter from the blast, survive the radioactive fallout and the infected, and make it to the evacuation.",
+  "authors": [
+    "sehrcool72"
+  ],
   "license": "MIT",
-  "icon": "assets/lastsunset/icon.png",
+  "icon": "assets/zerohour/icon.png",
   "environment": "*",
   "entrypoints": {
-    "main": ["com.lastsunset.LastSunset"],
-    "client": ["com.lastsunset.client.LastSunsetClient"]
+    "main": [
+      "com.zerohour.ZeroHour"
+    ],
+    "client": [
+      "com.zerohour.client.ZeroHourClient"
+    ]
   },
   "mixins": [
-    {"config": "lastsunset.client.mixins.json", "environment": "client"}
+    {
+      "config": "zerohour.client.mixins.json",
+      "environment": "client"
+    }
   ],
   "depends": {
     "fabricloader": ">=0.17.0",

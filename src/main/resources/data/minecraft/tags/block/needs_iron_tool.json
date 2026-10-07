@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "lastsunset:solarite_ore",
-    "lastsunset:flare_shielding"
+    "zerohour:blast_shielding"
   ]
 }

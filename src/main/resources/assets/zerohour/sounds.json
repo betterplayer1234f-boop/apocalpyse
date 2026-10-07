@@ -1,0 +1,101 @@
+{
+  "siren": {
+    "subtitle": "subtitles.zerohour.siren",
+    "sounds": [
+      {
+        "name": "zerohour:siren",
+        "stream": true
+      }
+    ]
+  },
+  "eas_tone": {
+    "subtitle": "subtitles.zerohour.eas_tone",
+    "sounds": [
+      {
+        "name": "zerohour:eas_tone",
+        "stream": false
+      }
+    ]
+  },
+  "radio_static": {
+    "subtitle": "subtitles.zerohour.radio_static",
+    "sounds": [
+      {
+        "name": "zerohour:radio_static",
+        "stream": false
+      }
+    ]
+  },
+  "rumble": {
+    "subtitle": "subtitles.zerohour.rumble",
+    "sounds": [
+      {
+        "name": "zerohour:rumble",
+        "stream": true
+      }
+    ]
+  },
+  "nuke_blast": {
+    "subtitle": "subtitles.zerohour.nuke_blast",
+    "sounds": [
+      {
+        "name": "zerohour:nuke_blast",
+        "stream": true
+      }
+    ]
+  },
+  "geiger_click": {
+    "subtitle": "subtitles.zerohour.geiger_click",
+    "sounds": [
+      {
+        "name": "zerohour:geiger_click",
+        "stream": false
+      }
+    ]
+  },
+  "flare_gun": {
+    "subtitle": "subtitles.zerohour.flare_gun",
+    "sounds": [
+      {
+        "name": "zerohour:flare_gun",
+        "stream": false
+      }
+    ]
+  },
+  "shell_whistle": {
+    "subtitle": "subtitles.zerohour.shell_whistle",
+    "sounds": [
+      {
+        "name": "zerohour:shell_whistle",
+        "stream": true
+      }
+    ]
+  },
+  "wind": {
+    "subtitle": "subtitles.zerohour.wind",
+    "sounds": [
+      {
+        "name": "zerohour:wind",
+        "stream": true
+      }
+    ]
+  },
+  "jet_flyby": {
+    "subtitle": "subtitles.zerohour.jet_flyby",
+    "sounds": [
+      {
+        "name": "zerohour:jet_flyby",
+        "stream": true
+      }
+    ]
+  },
+  "helicopter": {
+    "subtitle": "subtitles.zerohour.helicopter",
+    "sounds": [
+      {
+        "name": "zerohour:helicopter",
+        "stream": true
+      }
+    ]
+  }
+}

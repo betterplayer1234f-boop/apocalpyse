@@ -1,1 +1,9 @@
-{"replace": false, "values": ["lastsunset:solar_flare", "lastsunset:firestorm", "lastsunset:shelter_breach"]}
+{
+  "replace": false,
+  "values": [
+    "zerohour:nuclear_blast",
+    "zerohour:shelter_breach",
+    "zerohour:radiation",
+    "zerohour:infection"
+  ]
+}

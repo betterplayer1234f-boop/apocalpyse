@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "CIC",
+    "IOI",
+    "CIC"
+  ],
+  "key": {
+    "C": "minecraft:gray_concrete",
+    "I": "minecraft:iron_ingot",
+    "O": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "zerohour:blast_shielding",
+    "count": 4
+  }
+}

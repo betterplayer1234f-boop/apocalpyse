@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "zerohour:blocks/scorched_soil",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "zerohour:scorched_soil"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

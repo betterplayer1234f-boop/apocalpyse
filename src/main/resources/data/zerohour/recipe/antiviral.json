@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "minecraft:fermented_spider_eye",
+    "minecraft:golden_apple",
+    "minecraft:iron_nugget"
+  ],
+  "result": {
+    "id": "zerohour:antiviral",
+    "count": 1
+  }
+}

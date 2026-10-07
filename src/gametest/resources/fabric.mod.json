@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "id": "lastsunset-test",
+  "id": "zerohour-test",
   "version": "1.0.0",
-  "name": "Last Sunset cinematic test",
+  "name": "Zero Hour cinematic test",
   "environment": "*",
   "entrypoints": {
-    "fabric-client-gametest": ["com.lastsunset.test.CinematicTest"]
+    "fabric-client-gametest": ["com.zerohour.test.CinematicTest"]
   },
-  "depends": {"lastsunset": "*"}
+  "depends": {"zerohour": "*"}
 }

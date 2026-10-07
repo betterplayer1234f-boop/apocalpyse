@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "minecraft:blue_dye",
+    "minecraft:iron_nugget",
+    "minecraft:golden_carrot"
+  ],
+  "result": {
+    "id": "zerohour:anti_rad_serum",
+    "count": 1
+  }
+}

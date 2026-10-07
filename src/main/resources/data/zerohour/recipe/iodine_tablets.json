@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "zerohour:iodine_tablets",
+    "count": 2
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "zerohour:blocks/blast_shielding",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "zerohour:blast_shielding"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}
