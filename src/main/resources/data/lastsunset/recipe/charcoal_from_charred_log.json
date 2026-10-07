@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "lastsunset:charred_log"
+  ],
+  "result": {
+    "id": "minecraft:charcoal",
+    "count": 2
+  }
+}

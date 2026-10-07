@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "lastsunset:solarite_ore",
+    "lastsunset:flare_shielding",
+    "lastsunset:emergency_radio"
+  ]
+}

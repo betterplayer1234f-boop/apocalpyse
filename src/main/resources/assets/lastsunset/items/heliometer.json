@@ -1,0 +1,68 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "lastsunset:solar_flux",
+    "entries": [
+      {
+        "threshold": 0.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "lastsunset:item/heliometer_0"
+        }
+      },
+      {
+        "threshold": 0.125,
+        "model": {
+          "type": "minecraft:model",
+          "model": "lastsunset:item/heliometer_1"
+        }
+      },
+      {
+        "threshold": 0.25,
+        "model": {
+          "type": "minecraft:model",
+          "model": "lastsunset:item/heliometer_2"
+        }
+      },
+      {
+        "threshold": 0.375,
+        "model": {
+          "type": "minecraft:model",
+          "model": "lastsunset:item/heliometer_3"
+        }
+      },
+      {
+        "threshold": 0.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "lastsunset:item/heliometer_4"
+        }
+      },
+      {
+        "threshold": 0.625,
+        "model": {
+          "type": "minecraft:model",
+          "model": "lastsunset:item/heliometer_5"
+        }
+      },
+      {
+        "threshold": 0.75,
+        "model": {
+          "type": "minecraft:model",
+          "model": "lastsunset:item/heliometer_6"
+        }
+      },
+      {
+        "threshold": 0.875,
+        "model": {
+          "type": "minecraft:model",
+          "model": "lastsunset:item/heliometer_7"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "lastsunset:item/heliometer_0"
+    }
+  }
+}

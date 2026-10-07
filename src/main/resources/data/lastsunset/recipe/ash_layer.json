@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "lastsunset:ash",
+    "lastsunset:ash",
+    "lastsunset:ash"
+  ],
+  "result": {
+    "id": "lastsunset:ash_layer",
+    "count": 2
+  }
+}
